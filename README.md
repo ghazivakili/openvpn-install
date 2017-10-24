@@ -3,7 +3,7 @@ OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29
 
 This script will let you setup your own VPN server in no more than a minute, even if you haven't used OpenVPN before. It has been designed to be as unobtrusive and universal as possible.
 
-This Project Forked from orginal [Project](https://github.com/Nyr/openvpn-install), The goal is customizing for working on embedded linux Os (ARM9, ARM11).
+This Project Forked from orginal [Project](https://github.com/Nyr/openvpn-install), The goal is customize to working on embedded linux Os (ARM9, ARM11).
 
 ### Installation
 Run the script and follow the assistant:
